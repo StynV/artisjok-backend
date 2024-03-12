@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_paginas",
+  "info": {
+    "singularName": "home-pagina",
+    "pluralName": "home-paginas",
+    "displayName": "Home pagina"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
